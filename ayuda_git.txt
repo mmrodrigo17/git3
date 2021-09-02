@@ -3,11 +3,13 @@ inicializar area de trabajo
 
 git status
 
-git add
+git add nombrearchivo.txt
 agrego archivo
+ git add .
+ agrego todos los archivos
 
 git commit
-
+git commit -m "agregado de .gitignore"
 
 git log 
 para ver el historial de commit
@@ -18,3 +20,11 @@ para revertir los cambios en un archivo
 
 git diff
 para ver las diferencias hechas en los archivos
+
+git branch
+muestra los branch
+
+git checkout test
+me mueve al branch test
+
+
