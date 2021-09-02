@@ -4,6 +4,17 @@ inicializar area de trabajo
 git status
 
 git add
+agrego archivo
 
 git commit
 
+
+git log 
+para ver el historial de commit
+
+git checkout -- nombrearchivo.js
+para revertir los cambios en un archivo
+
+
+git diff
+para ver las diferencias hechas en los archivos
