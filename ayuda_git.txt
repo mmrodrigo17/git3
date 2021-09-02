@@ -1,0 +1,9 @@
+git init
+inicializar area de trabajo 
+
+git status
+
+git add
+
+git commit
+
