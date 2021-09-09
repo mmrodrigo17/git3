@@ -28,5 +28,13 @@ git checkout test
 me mueve al branch test
 
 
-pongo mas cambios en master previos al nuevo branch
-un cambio mas ya en staging.
+git log
+para obtener el <sha1-commit> del commit deseado
+
+git branch <nombre-rama> <sha1-commit>
+git branch staging e8f21fa513fe408648d162a5cbce8c4d62733f53
+para crear un branch a partir de un commit anterior
+
+
+git checkout staging
+para pararte en el branch deseado
