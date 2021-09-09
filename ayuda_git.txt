@@ -28,3 +28,4 @@ git checkout test
 me mueve al branch test
 
 
+pongo mas cambios en master previos al nuevo branch
